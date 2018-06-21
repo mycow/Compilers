@@ -1,0 +1,21 @@
+Open Scope
+Declaring FUNCTION printf, returns 272
+Declaring FUNCTION r, returns 272
+Declaring FUNCTION nattyBitch, returns 272
+Declaring c: (272, 0, ARRAY) of size 900
+Declaring h: (272, 0, SCALAR)
+Defining FUNCTION suhBish takes in 272 a, 0 takes in 272 i, 0, returns 272
+Open Scope
+Using identifier a
+Using identifier a
+Close Scope
+Defining FUNCTION main take in VOID, returns 272
+Open Scope
+Declaring x: (272, 0, SCALAR)
+Declaring y: (272, 0, SCALAR)
+Declaring z: (272, 0, ARRAY) of size 10
+Using identifier x
+Using identifier y
+Using identifier printf
+Close Scope
+Close Scope

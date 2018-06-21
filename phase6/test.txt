@@ -1,0 +1,13 @@
+_main:
+	pushq	%rbp
+	movq	%rsp, %rbp
+	subq	$0, %rsp
+	movq	, %rdi
+	movl	$0, %eax
+	call	_printf
+	movq	%rbp, %rsp
+	popq	%rbp
+	ret
+
+	.globl	_main
+

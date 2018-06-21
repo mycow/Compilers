@@ -1,0 +1,27 @@
+Open Scope
+Declared int a
+Open Scope
+Declared int x
+Declared int z
+
+Define int() f
+Declared int y
+Open Scope
+Declared int y
+Declared int z
+Close Scope
+Open Scope
+Declared int x
+Declared int z
+Close Scope
+Close Scope
+Open Scope
+Declared int x
+
+Define int() g
+Close Scope
+Open Scope
+Declared int y
+
+Close Scope
+Close Scope

@@ -1,0 +1,28 @@
+Open Scope
+Declared int x
+Declared int a
+Declared int*[10] b
+Open Scope
+Declared int x
+Declared int f
+
+Define int*() f
+Declared int y
+add
+eql
+Open Scope
+Declared int x
+Declared int f
+Declared int y
+Declared int z
+add
+add
+gtn
+Open Scope
+Declared int a
+index
+addr
+Close Scope
+Close Scope
+Close Scope
+Close Scope

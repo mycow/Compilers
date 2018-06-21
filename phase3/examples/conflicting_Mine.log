@@ -1,0 +1,11 @@
+Open Scope
+Declared int x
+Declared int[10] a
+Declared int() g
+Declared int*() f
+Open Scope
+Declared int z
+
+Close Scope
+Declared int h
+Close Scope
